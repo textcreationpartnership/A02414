@@ -35,8 +35,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Pieties pillar: or, A sermon preached at the funerall of mistresse Elizabeth Gouge, late wife of Mr.
+
+1. TO THE RIGHT HONOVRABLE, SIR THOMAS LAKE, Knight, of CANONS, in Middleſex.
+
+1. To the Reader.
+
 #####Body#####
+
+1. A SERMON Preached at the Funeral of Miſtreſſe Elizabeth Gouge, late Wife of Maſter William Gouge of Black-Fryers, London.
 GIue mee leaue to adde a few words about the particular occaſion of this our meeting, which is euide
 **Types of content**
 
